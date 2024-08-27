@@ -1,0 +1,4 @@
+/dist/
+/modulinedtc.*
+/.venv/
+__pycache__
